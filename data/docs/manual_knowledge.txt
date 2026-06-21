@@ -1,0 +1,174 @@
+========================================================================
+BANGLADESH COMMON DISEASES HEALTH GUIDELINES & FACTSHEETS (ENGLISH & BENGALI)
+========================================================================
+
+------------------------------------------------------------------------
+DISEASE 1: DENGUE FEVER (ডেঙ্গু জ্বর)
+------------------------------------------------------------------------
+Description:
+Dengue fever is a mosquito-borne viral infection common in Bangladesh, especially during the monsoon season (June to September). It is transmitted by Aedes mosquitoes.
+সymptoms (উপসর্গসমূহ):
+- High fever (104°F / 40°C) / তীব্র জ্বর
+- Severe headache / মারাত্মক মাথাব্যথা
+- Pain behind the eyes / চোখের পেছনে ব্যথা
+- Muscle and joint pains ("breakbone fever") / পেশী ও জয়েন্টে ব্যথা
+- Nausea and vomiting / বমি বমি ভাব এবং বমি
+- Skin rash / চামড়ায় লাল র‍্যাশ বা দাগ
+Warning Signs (বিপজ্জনক লক্ষণ - High Urgency/Emergency):
+- Severe abdominal pain / তীব্র পেটে ব্যথা
+- Persistent vomiting / অনবরত বমি
+- Bleeding from gums or nose / মাড়ি বা নাক দিয়ে রক্তপাত
+- Blood in vomit or stool / বমির সাথে বা মলদ্বারে রক্তপাত
+- Difficulty breathing / শ্বাসকষ্ট
+- Extreme fatigue or restlessness / অতিরিক্ত ক্লান্তিবোধ বা ছটফটানি
+Home Care & Treatment (ঘরোয়া যত্ন):
+- Complete bed rest / সম্পূর্ণ বিশ্রাম
+- Take Paracetamol (never Ibuprofen or Aspirin as they increase bleeding risks) / শুধুমাত্র প্যারাসিটামল খাওয়া (আইবুপ্রোফেন বা অ্যাসপিরিন কখনই খাওয়া যাবে না)
+- Stay hydrated by drinking plenty of water, ORS (oral saline), coconut water, and fruit juice / প্রচুর তরল খাবার যেমন খাবার স্যালাইন, ডাবের পানি ও ফলের রস খাওয়া
+Referral Recommendation:
+- General Dengue: Upazila Health Complex or District General Hospital.
+- Warning signs or severe bleeding: District Hospital or Medical College Hospital Emergency.
+
+------------------------------------------------------------------------
+DISEASE 2: CHIKUNGUNYA (চিকুনগুনিয়া)
+------------------------------------------------------------------------
+Description:
+Chikungunya is a viral disease transmitted by Aedes mosquitoes. While rarely fatal, the joint pain can be severe and last for weeks or months.
+Symptoms (উপসর্গসমূহ):
+- Sudden onset of high fever / হঠাৎ তীব্র জ্বর
+- Severe, debilitating joint pain (mostly in hands, wrists, ankles) / তীব্র জয়েন্টে ব্যথা (হাত, কবজি, গোড়ালি)
+- Muscle pain and headache / পেশী ব্যথা এবং মাথাব্যথা
+- Skin rash and fatigue / ত্বকে র‍্যাশ ও ক্লান্তি
+Home Care & Treatment (ঘরোয়া যত্ন):
+- Rest and gentle stretching / বিশ্রাম এবং হালকা হাত-পা নাড়াচাড়া
+- Stay hydrated / প্রচুর তরল পান করা
+- Paracetamol for fever and pain / জ্বর ও ব্যথার জন্য প্যারাসিটামল
+Referral Recommendation:
+- Medium Urgency. Visit Community Clinic or Upazila Health Complex if symptoms persist.
+
+------------------------------------------------------------------------
+DISEASE 3: TYPHOID FEVER (টাইফয়েড জ্বর)
+------------------------------------------------------------------------
+Description:
+Typhoid is a life-threatening bacterial infection caused by Salmonella Typhi. It spreads through contaminated food and water.
+Symptoms (উপসর্গসমূহ):
+- High fever that rises gradually daily / ক্রমান্বয়ে বৃদ্ধি পাওয়া দীর্ঘস্থায়ী জ্বর
+- Extreme weakness and fatigue / চরম দুর্বলতা এবং ক্লান্তি
+- Stomach pain and headache / পেটে ব্যথা এবং মাথাব্যথা
+- Constipation or diarrhea / কোষ্ঠকাঠিন্য অথবা পাতলা পায়খানা
+- Dry cough and loss of appetite / শুকনো কাশি এবং ক্ষুধা কমে যাওয়া
+Home Care & Treatment (ঘরোয়া যত্ন):
+- Drink boiled or filtered safe water / সেদ্ধ বা ফিল্টার করা নিরাপদ পানি পান করা
+- Take soft, easily digestible foods / নরম ও সহজে হজমযোগ্য খাবার খাওয়া
+- Must consult a doctor for antibiotic treatment / অ্যান্টিবায়োটিক কোর্সের জন্য অবশ্যই রেজিস্টার্ড ডাক্তারের পরামর্শ নেওয়া
+Referral Recommendation:
+- High Urgency. Visit Upazila Health Complex or District General Hospital.
+
+------------------------------------------------------------------------
+DISEASE 4: DIARRHEA & CHOLERA (ডায়রিয়া এবং কলেরা)
+------------------------------------------------------------------------
+Description:
+Diarrheal diseases and Cholera are caused by consuming contaminated water or food. Dehydration is the major risk.
+Symptoms (উপসর্গসমূহ):
+- Frequent watery stools / ঘন ঘন পাতলা পায়খানা
+- Rice-water stools (typical of cholera) / চাল ধোয়া পানির মতো পাতলা পায়খানা (কলেরার লক্ষণ)
+- Stomach cramps and vomiting / পেট কামড়ানো এবং বমি
+- Signs of dehydration: dry mouth, sunken eyes, extreme thirst, low urination / পানিশূন্যতার লক্ষণ: শুকনো মুখ, বসে যাওয়া চোখ, তীব্র তৃষ্ণা, কম প্রস্রাব
+Home Care & Treatment (ঘরোয়া যত্ন):
+- Start Oral Rehydration Saline (ORS / Oral Saline) immediately after every loose stool / প্রতিবার পাতলা পায়খানার পর খাবার স্যালাইন (ওআরএস) খাওয়া
+- Continue normal feeding and breastfeeding for infants / স্বাভাবিক খাবার ও শিশুদের বুকের দুধ খাওয়ানো চালিয়ে যাওয়া
+- Zinc supplements for children / শিশুদের জিংক প্রিপারেশন দেওয়া
+Referral Recommendation:
+- Moderate Diarrhea: Community Clinic or Upazila Health Complex.
+- Severe Dehydration/Vomiting: District Hospital Emergency.
+
+------------------------------------------------------------------------
+DISEASE 5: TUBERCULOSIS - TB (যক্ষ্মা)
+------------------------------------------------------------------------
+Description:
+Tuberculosis is a bacterial disease caused by Mycobacterium tuberculosis, affecting lungs mainly. Diagnosis and treatment are free in government facilities in Bangladesh.
+Symptoms (উপসর্গসমূহ):
+- Persistent cough for more than 2-3 weeks / ৩ সপ্তাহের বেশি সময় ধরে একটানা কাশি
+- Coughing up blood or sputum / কাশির সাথে রক্ত বা কফ বের হওয়া
+- Fever (especially low-grade in the evening) / সন্ধ্যার দিকে মৃদু জ্বর
+- Night sweats and chills / রাতে ঘেমে যাওয়া এবং কাঁপুনি
+- Unexplained weight loss and fatigue / দ্রুত ওজন হ্রাস ও ক্লান্তি
+Treatment (চিকিৎসা):
+- TB is fully curable with DOTS therapy (directly observed treatment, short-course) provided free at government centers / যক্ষ্মা সম্পূর্ণ নিরাময়যোগ্য। সরকারি হাসপাতালে বিনামূল্যে ডটস (DOTS) চিকিৎসা দেওয়া হয়
+- Complete the full course (6 months) without stopping / ওষুধের কোর্স সম্পূর্ণ (৬ মাস) করতে হবে, মাঝপথে বন্ধ করা যাবে না
+Referral Recommendation:
+- High Urgency. Visit Upazila Health Complex or District Hospital.
+
+------------------------------------------------------------------------
+DISEASE 6: MALARIA (ম্যালেরিয়া)
+------------------------------------------------------------------------
+Description:
+Malaria is a parasitic disease transmitted by Anopheles mosquitoes. It is highly endemic in hilly regions of Bangladesh (e.g., Bandarban, Rangamati, Khagrachari, Sylhet).
+Symptoms (উপসর্গসমূহ):
+- High fever with shaking chills and sweating / কাঁপুনি দিয়ে তীব্র জ্বর ও ঘাম দিয়ে জ্বর ছাড়া
+- Headaches, muscle aches, and vomiting / মাথাব্যথা, শরীর ব্যথা ও বমি
+- Anemia and jaundice / রক্তশূন্যতা এবং জন্ডিস
+Referral Recommendation:
+- High Urgency. Visit Upazila Health Complex or District General Hospital immediately, especially if you have a travel history to Chittagong Hill Tracts.
+
+------------------------------------------------------------------------
+DISEASE 7: RESPIRATORY INFECTIONS (শ্বাসতন্ত্রের সংক্রমণ)
+------------------------------------------------------------------------
+Description:
+Includes common cold, influenza, bronchitis, and pneumonia. Pneumonia in children under 5 is a leading cause of death in Bangladesh.
+Symptoms (উপসর্গসমূহ):
+- Cough, runny nose, sore throat / কাশি, সর্দি, গলা ব্যথা
+- Fever and chest pain / জ্বর ও বুকে ব্যথা
+- Rapid breathing / ঘন ঘন শ্বাস নেওয়া
+- Chest indrawing in children / শিশুদের শ্বাস নেওয়ার সময় বুক ভেতরের দিকে ডেবে যাওয়া
+Referral Recommendation:
+- Mild cold: Low urgency, visit Community Clinic.
+- Rapid breathing/Chest indrawing: Emergency, go to Upazila Health Complex or District Hospital immediately.
+
+------------------------------------------------------------------------
+DISEASE 8: DIABETES & HYPERTENSION (ডায়াবেটিস এবং উচ্চ রক্তচাপ)
+------------------------------------------------------------------------
+Description:
+Non-communicable diseases rising rapidly in Bangladesh.
+Diabetes Symptoms (ডায়াবেটিসের লক্ষণ):
+- Increased thirst and frequent urination (especially at night) / অতিরিক্ত তৃষ্ণা ও ঘন ঘন প্রস্রাব (বিশেষ করে রাতে)
+- Increased hunger and weight loss / ক্ষুধা বৃদ্ধি কিন্তু ওজন হ্রাস
+- Blurred vision and slow-healing wounds / ঝাপসা দৃষ্টি ও ক্ষত শুকাতে দেরি হওয়া
+Hypertension Symptoms (উচ্চ রক্তচাপের লক্ষণ):
+- Often asymptomatic (silent killer) / অনেক সময় কোনো লক্ষণ থাকে না
+- Severe headache, neck pain / তীব্র মাথাব্যথা, ঘাড় ব্যথা
+- Chest pain or dizziness / বুকে ব্যথা বা মাথা ঘোরানো
+Referral Recommendation:
+- Medium Urgency for routine screening and diagnosis at Upazila Health Complex or District Hospital.
+- Sudden severe chest pain/stroke: Emergency, call 999 or go to nearest medical college.
+
+------------------------------------------------------------------------
+DISEASE 9: SKIN INFECTIONS (চর্মরোগ বা ত্বকের সংক্রমণ)
+------------------------------------------------------------------------
+Description:
+Fungal infections (scabies, ringworm) are highly common due to hot and humid weather in Bangladesh.
+Symptoms (উপসর্গসমূহ):
+- Intense itching, especially at night / তীব্র চুলকানি, বিশেষ করে রাতে
+- Red, scaly, ring-like rashes / লাল, খসখসে, রিংয়ের মতো র‍্যাশ (দাউদ)
+- Fluid-filled blisters / পানিযুক্ত ফুসকুড়ি (খোসপাঁচড়া)
+Prevention & Home Care (প্রতিরোধ ও যত্ন):
+- Maintain personal hygiene and keep skin dry / ব্যক্তিগত পরিচ্ছন্নতা বজায় রাখা এবং ত্বক শুকনো রাখা
+- Do not share towels or clothes / অন্যের তোয়ালে বা কাপড় ব্যবহার না করা
+Referral Recommendation:
+- Low Urgency. Visit Community Clinic or Upazila Health Complex.
+
+------------------------------------------------------------------------
+DISEASE 10: VIRAL HEPATITIS / JAUNDICE (ভাইরাল হেপাটাইটিস বা জন্ডিস)
+------------------------------------------------------------------------
+Description:
+Inflammation of the liver, often caused by waterborne Hepatitis A or E in Bangladesh.
+Symptoms (উপসর্গসমূহ):
+- Yellowing of skin and eyes / চোখ ও ত্বক হলুদ হয়ে যাওয়া
+- Dark urine and pale stools / গাঢ় রঙের প্রস্রাব ও ফ্যাকাসে মল
+- Fatigue, nausea, abdominal pain / চরম ক্লান্তি, বমি বমি ভাব, পেটে ব্যথা
+Home Care (যত্ন):
+- Complete bed rest / সম্পূর্ণ বিশ্রাম
+- Take easily digestible foods and plenty of water / সহজে হজমযোগ্য খাবার ও পর্যাপ্ত পানি খাওয়া
+- Avoid traditional local herbal healers / কবিরাজি বা অপচিকিৎসা পরিহার করা
+Referral Recommendation:
+- Medium Urgency. Visit Upazila Health Complex or District Hospital for blood tests.

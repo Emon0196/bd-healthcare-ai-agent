@@ -1,0 +1,78 @@
+{
+  "emergency_numbers": {
+    "national_emergency": "999",
+    "dghs_hotline": "16401",
+    "iedcr_hotline": "10655",
+    "ambulance": "199"
+  },
+  "facility_tiers": {
+    "community_clinic": {
+      "description": "Community Clinic — free primary care, nearest to home",
+      "when_to_go": "Minor illnesses, routine checkups, family planning, vaccination",
+      "cost": "Free",
+      "available_in": "All unions"
+    },
+    "upazila_health_complex": {
+      "description": "Upazila Health Complex — free government hospital",
+      "when_to_go": "Moderate illness, referral from community clinic, general OPD",
+      "cost": "Free (government)",
+      "available_in": "All upazilas"
+    },
+    "district_hospital": {
+      "description": "District General Hospital — larger government facility",
+      "when_to_go": "Conditions requiring specialist care or minor surgery",
+      "cost": "Minimal (government)",
+      "available_in": "All district headquarters"
+    },
+    "medical_college_hospital": {
+      "description": "Medical College Hospital — specialized care",
+      "when_to_go": "Complex conditions, serious illness, specialist consultation",
+      "cost": "Minimal (government) or paid (private)",
+      "examples": [
+        "DMCH Dhaka",
+        "Chittagong Medical College",
+        "Rajshahi Medical College",
+        "Sylhet MAG Osmani Medical College",
+        "Khulna Medical College"
+      ]
+    }
+  },
+  "major_hospitals_dhaka": [
+    {
+      "name": "Dhaka Medical College Hospital (DMCH)",
+      "type": "government",
+      "phone": "02-55165088"
+    },
+    {
+      "name": "BSMMU (PG Hospital)",
+      "type": "government",
+      "phone": "02-9661041"
+    },
+    {
+      "name": "Sir Salimullah Medical College (Mitford)",
+      "type": "government",
+      "phone": "02-7111321"
+    },
+    {
+      "name": "National Institute of Diseases of Chest and Hospital (NIDCH)",
+      "type": "government",
+      "specialty": "TB/Chest"
+    },
+    {
+      "name": "National Eye Care",
+      "type": "government",
+      "specialty": "Eye"
+    },
+    {
+      "name": "Infectious Disease Hospital (IDH)",
+      "type": "government",
+      "specialty": "Infectious disease"
+    }
+  ],
+  "urgency_to_facility": {
+    "low": "community_clinic",
+    "medium": "upazila_health_complex",
+    "high": "district_hospital",
+    "emergency": "emergency_department"
+  }
+}
