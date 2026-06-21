@@ -3,6 +3,11 @@ import os
 from config import APP_TITLE, APP_ICON
 from modules.symptom_analyzer import analyze_symptoms
 from modules.care_referral import get_referral
+from rag.loader import build_vector_store
+
+# Automatically build vector store on startup if it doesn't exist (useful for cloud deployments)
+if not os.path.exists("data/chroma_db") or not os.listdir("data/chroma_db"):
+    build_vector_store()
 
 # Page config
 st.set_page_config(
