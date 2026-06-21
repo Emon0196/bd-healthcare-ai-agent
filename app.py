@@ -1,5 +1,8 @@
-import streamlit as st
 import os
+# Force pure-python implementation of Protobuf to avoid descriptor conflict errors on Streamlit Cloud
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
+import streamlit as st
 from config import APP_TITLE, APP_ICON
 from modules.symptom_analyzer import analyze_symptoms
 from modules.care_referral import get_referral

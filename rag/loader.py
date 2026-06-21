@@ -1,5 +1,9 @@
 import os
 import sys
+
+# Force pure-python implementation of Protobuf to avoid descriptor conflict errors on Streamlit Cloud
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 from pathlib import Path
 
 # Add project root to path to allow executing this file directly
