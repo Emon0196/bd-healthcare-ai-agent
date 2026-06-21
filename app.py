@@ -2,9 +2,12 @@ import os
 # Force pure-python implementation of Protobuf to avoid descriptor conflict errors on Streamlit Cloud
 os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+try:
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
 
 import streamlit as st
 from config import APP_TITLE, APP_ICON
